@@ -1,0 +1,7 @@
+{
+  "name": "@atlas/engine-payroll",
+  "version": "0.1.0",
+  "description": "Deterministic Brazilian Payroll Engine & eSocial Compliance Core",
+  "private": false,
+  "main": "index.js"
+}
